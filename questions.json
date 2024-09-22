@@ -1,0 +1,442 @@
+[
+    {
+        "question1": "Being an introvert",
+        "question2": "Being an extrovert",
+        "count": [
+            0,
+            1
+        ]
+    },
+    {
+        "question1": "Beach",
+        "question2": "Mountains",
+        "count": [
+            1,
+            0
+        ]
+    },
+    {
+        "question1": "Pizza",
+        "question2": "Burger",
+        "count": [
+            0,
+            1
+        ]
+    },
+    {
+        "question1": "Early bird",
+        "question2": "Night owl",
+        "count": [
+            0,
+            2
+        ]
+    },
+    {
+        "question1": "Having a garden",
+        "question2": "Having a pool",
+        "count": [
+            2,
+            0
+        ]
+    },
+    {
+        "question1": "Summer",
+        "question2": "Winter",
+        "count": [
+            1,
+            0
+        ]
+    },
+    {
+        "question1": "Cooking at home",
+        "question2": "Eating out",
+        "count": [
+            0,
+            1
+        ]
+    },
+    {
+        "question1": "Having super strength",
+        "question2": "Having super speed",
+        "count": [
+            1,
+            0
+        ]
+    },
+    {
+        "question1": "Exploring space",
+        "question2": "Exploring the ocean",
+        "count": [
+            1,
+            0
+        ]
+    },
+    {
+        "question1": "Riding a bike",
+        "question2": "Driving a car",
+        "count": [
+            2,
+            0
+        ]
+    },
+    {
+        "question1": "Being a superhero",
+        "question2": "Being a villain",
+        "count": [
+            1,
+            1
+        ]
+    },
+    {
+        "question1": "Action movies",
+        "question2": "Romantic movies",
+        "count": [
+            0,
+            1
+        ]
+    },
+    {
+        "question1": "Playing video games",
+        "question2": "Playing board games",
+        "count": [
+            0,
+            0
+        ]
+    },
+    {
+        "question1": "Camping",
+        "question2": "Luxury hotel",
+        "count": [
+            1,
+            0
+        ]
+    },
+    {
+        "question1": "Coffee",
+        "question2": "Tea",
+        "count": [
+            0,
+            0
+        ]
+    },
+    {
+        "question1": "Facebook",
+        "question2": "Instagram",
+        "count": [
+            0,
+            0
+        ]
+    },
+    {
+        "question1": "Being able to read minds",
+        "question2": "Being able to see the future",
+        "count": [
+            1,
+            0
+        ]
+    },
+    {
+        "question1": "Being able to talk to animals",
+        "question2": "Being able to speak all languages",
+        "count": [
+            0,
+            0
+        ]
+    },
+    {
+        "question1": "Traveling abroad",
+        "question2": "Traveling locally",
+        "count": [
+            1,
+            0
+        ]
+    },
+    {
+        "question1": "Winning a million dollars",
+        "question2": "Finding true love",
+        "count": [
+            0,
+            0
+        ]
+    },
+    {
+        "question1": "Money",
+        "question2": "Happiness",
+        "count": [
+            0,
+            0
+        ]
+    },
+    {
+        "question1": "Being a morning person",
+        "question2": "Being a night person",
+        "count": [
+            1,
+            0
+        ]
+    },
+    {
+        "question1": "Time travel",
+        "question2": "Teleportation",
+        "count": [
+            0,
+            0
+        ]
+    },
+    {
+        "question1": "Having a private jet",
+        "question2": "Having a yacht",
+        "count": [
+            1,
+            0
+        ]
+    },
+    {
+        "question1": "Getting a pet",
+        "question2": "Traveling the world",
+        "count": [
+            0,
+            1
+        ]
+    },
+    {
+        "question1": "Being a leader",
+        "question2": "Being a follower",
+        "count": [
+            0,
+            0
+        ]
+    },
+    {
+        "question1": "Living forever",
+        "question2": "Having a short but fulfilling life",
+        "count": [
+            0,
+            0
+        ]
+    },
+    {
+        "question1": "Reading a book",
+        "question2": "Watching a movie",
+        "count": [
+            0,
+            1
+        ]
+    },
+    {
+        "question1": "Apples",
+        "question2": "Oranges",
+        "count": [
+            0,
+            0
+        ]
+    },
+    {
+        "question1": "Being a child",
+        "question2": "Being an adult",
+        "count": [
+            1,
+            0
+        ]
+    },
+    {
+        "question1": "Being a genius",
+        "question2": "Being famous",
+        "count": [
+            0,
+            0
+        ]
+    },
+    {
+        "question1": "Being able to play any instrument",
+        "question2": "Being able to sing perfectly",
+        "count": [
+            0,
+            0
+        ]
+    },
+    {
+        "question1": "Singing",
+        "question2": "Dancing",
+        "count": [
+            0,
+            0
+        ]
+    },
+    {
+        "question1": "Being famous",
+        "question2": "Being rich",
+        "count": [
+            0,
+            1
+        ]
+    },
+    {
+        "question1": "Ice cream",
+        "question2": "Cake",
+        "count": [
+            1,
+            0
+        ]
+    },
+    {
+        "question1": "Hiking",
+        "question2": "Swimming",
+        "count": [
+            0,
+            0
+        ]
+    },
+    {
+        "question1": "Cats",
+        "question2": "Dogs",
+        "count": [
+            0,
+            1
+        ]
+    },
+    {
+        "question1": "Being able to control time",
+        "question2": "Being able to control the weather",
+        "count": [
+            0,
+            0
+        ]
+    },
+    {
+        "question1": "Chocolate",
+        "question2": "Vanilla",
+        "count": [
+            0,
+            0
+        ]
+    },
+    {
+        "question1": "Star Wars",
+        "question2": "Star Trek",
+        "count": [
+            0,
+            0
+        ]
+    },
+    {
+        "question1": "Winning an Oscar",
+        "question2": "Winning a Grammy",
+        "count": [
+            0,
+            0
+        ]
+    },
+    {
+        "question1": "Having a photographic memory",
+        "question2": "Being able to forget anything at will",
+        "count": [
+            1,
+            0
+        ]
+    },
+    {
+        "question1": "Netflix",
+        "question2": "YouTube",
+        "count": [
+            0,
+            0
+        ]
+    },
+    {
+        "question1": "Having a big family",
+        "question2": "Having no siblings",
+        "count": [
+            0,
+            0
+        ]
+    },
+    {
+        "question1": "Waking up early",
+        "question2": "Going to bed late",
+        "count": [
+            1,
+            0
+        ]
+    },
+    {
+        "question1": "Having a time machine",
+        "question2": "Having a robot servant",
+        "count": [
+            0,
+            0
+        ]
+    },
+    {
+        "question1": "Driving",
+        "question2": "Cycling",
+        "count": [
+            0,
+            0
+        ]
+    },
+    {
+        "question1": "Going out",
+        "question2": "Staying in",
+        "count": [
+            0,
+            0
+        ]
+    },
+    {
+        "question1": "Having an unlimited supply of food",
+        "question2": "Having an unlimited supply of water",
+        "count": [
+            0,
+            0
+        ]
+    },
+    {
+        "question1": "Being able to fly",
+        "question2": "Being invisible",
+        "count": [
+            0,
+            0
+        ]
+    },
+    {
+        "question1": "Living in the city",
+        "question2": "Living in the countryside",
+        "count": [
+            0,
+            0
+        ]
+    },
+    {
+        "question1": "Living in a mansion",
+        "question2": "Living in a tiny house",
+        "count": [
+            0,
+            0
+        ]
+    },
+    {
+        "question1": "Sweet snacks",
+        "question2": "Savory snacks",
+        "count": [
+            0,
+            0
+        ]
+    },
+    {
+        "question1": "Coca Cola",
+        "question2": "Fanta",
+        "count": [
+            0,
+            0
+        ]
+    },
+    {
+        "question1": "Football",
+        "question2": "Basketball",
+        "count": [
+            0,
+            0
+        ]
+    }
+]
